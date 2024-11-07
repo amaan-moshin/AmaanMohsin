@@ -11,4 +11,4 @@
   </li>
   <li>Three.js</li>
 </ul>
-<h3>Contact me on ><a href="mailto:amaanmohsin64@gmail.com">Send email</a></</h3>
+<h3>Contact me on <a href="mailto:amaanmohsin64@gmail.com">Send email</a></</h3>
