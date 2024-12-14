@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm amaan mohsin</h1>
 <h3 align="center">A MERN STAK DEVELOPER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan-mohsin&label=Profile%20views&color=0e75b6&style=flat" alt="amaan-mohsin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaan-mohsin" alt="amaan-mohsin" /></a> </p>
-
 - 🌱 I’m currently learning **NEXT JS 14 AND MONGO DB**
 
 - e at my portfolio : Soon to be Inaugrated [about:blank](about:blank)
