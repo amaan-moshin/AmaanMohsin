@@ -5,7 +5,5 @@
 
 💬 Ask me about **MERN**
 
-📫 To reach me Contact on my Email : amaanmohsin64@gmail.com
-
-⚡ Fun fact **I mostly intrested in api's and server side logics**
+⚡ **I am mostly intrested in API's and SERVER SIDE LOGICS**
 
