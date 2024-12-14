@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm amaan mohsin</h1>
-<h3 align="center">A MERN STAK DEVELOPER</h3>
+<h1 align="left">Hi I'm amaan mohsin</h1>
+<h3 align="left">A MERN STAK DEVELOPER</h3>
 
 - 🌱 I’m currently learning **NEXT JS 14 AND MONGO DB**
 
