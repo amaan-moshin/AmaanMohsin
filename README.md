@@ -4,8 +4,7 @@
 🌱 I’m currently learning **NEXT JS 14 AND MONGO DB**
 
 💬 Ask me about **MERN**
-
-📫 How to reach me **amaanmohsin64@gmail.com**
+📫 To reach me Contact on my Email : amaanmohsin64@gmail.com
 
 ⚡ Fun fact **I mostly intrested in api's and server side logics**
 
